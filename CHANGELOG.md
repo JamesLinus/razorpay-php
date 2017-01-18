@@ -3,6 +3,9 @@
 Changelog for Razorpay-PHP SDK. Follows [keepachangelog.com](http://keepachangelog.com/en/0.3.0/) for formatting.
 
 ## Unreleased
+### Added
+- Support for creating and fetching Transfers
+- Support for creating Reversals on transfers
 
 ## [1.2.9] - 2017-01-03
 ### Added
